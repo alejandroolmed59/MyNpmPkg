@@ -1,0 +1,23 @@
+{
+  "name": "miprimerpacklol",
+  "version": "1.0.0",
+  "description": "origins",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroolmed59/MyNpmPkg.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz"
+  ],
+  "author": "Alejandro Olmedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejandroolmed59/MyNpmPkg/issues"
+  },
+  "homepage": "https://github.com/alejandroolmed59/MyNpmPkg#readme"
+}
